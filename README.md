@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @Mnovis
-- 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning JS and Rect
-- 📫 How to reach me my number is +55 21 98131-7083
+👋 Hi, I’m @Mnovis
+
+🔥 Junior Web Developer & Full-Stack
+
+🔭 I’m currently studying JavaScript, Node.JS, React
+
+💬 How to reach me 
+
+⚡ Fun fact Oneye 😜
 
 <!---
 Mnovis/Mnovis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
