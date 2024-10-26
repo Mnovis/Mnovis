@@ -5,7 +5,7 @@
 🔭 I’m currently studying JavaScript
 
 <div>
-  <a href="https://github.com/Mnovis/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mnovis&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mnovis's github stats" /></a> | <a href="https://github.com/Mnovis/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mnovis&layout=compact&theme=buefy&hide_border=true" /></a> |
+  <a href="https://github.com/Mnovis/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mnovis&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Mnovis's github stats" /></a> | <a href="https://github.com/Mnovis/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mnovis&layout=compact&theme=dracula&hide_border=true" /></a> |
 </div>
 
 <div style="display: inline_block"><br>
